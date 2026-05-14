@@ -26,8 +26,6 @@ O projeto permite explorar a mecânica interna de um Kernel sem a complexidade d
 **Pré-requisito:** Python 3 instalado.
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/pyos.git
 
 # Entre na pasta
 cd pyos
